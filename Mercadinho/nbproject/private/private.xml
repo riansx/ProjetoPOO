@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/view/MenuAdministrador.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/model/Usuario.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/model/Produto.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/model/Cliente.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/model/Venda.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/model/ItemVenda.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/model/ResumoVenda.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/util/ConnectionFactory.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/view/GerenciamentoUnidades.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/view/GerenciamentoUsuarios.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/view/GerenciamentoClientes.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/view/GerenciamentoProdutos.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/view/Vendas.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/dao/UsuarioDAO.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/dao/ProdutoDAO.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/dao/ClienteDAO.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/dao/VendaDAO.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/dao/ItemVendaDAO.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/controller/ClienteController.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/controller/ProdutoController.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/controller/UsuarioController.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/controller/VendaController.java</file>
+            <file>file:/E:/ProjetoPOO/Mercadinho/src/controller/LoginController.java</file>
+        </group>
+    </open-files>
+</project-private>
